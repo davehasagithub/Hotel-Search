@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Hotels</string>
+
+    <string name="app_full_title">codeparams.com</string>
+
+    <string name="service_endpoint_hotel_list" translatable="false" tools:keep="@string/service_endpoint_hotel_list">https://codeparams.com/hotel_search_results.json</string>
+
+    <string name="sort_by_hotel_name">Hotel Name</string>
+    <string name="sort_by_price">Price</string>
+    <string name="sort_by_guest_rating">Guest Rating</string>
+
+    <string name="menu_sort">Sort</string>
+
+    <string name="subtitle_maps">Map</string>
+    <string name="subtitle_sort_by">Sorted By: %s</string>
+
+    <string name="dollar">$</string>
+
+    <string name="accessibility_hotel_image">Hotel Image</string>
+    <string name="menu_map">Map</string>
+
+</resources>

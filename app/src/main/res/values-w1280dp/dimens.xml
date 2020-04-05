@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="margin">32dp</dimen>
+    <dimen name="half_margin">16dp</dimen>
+</resources>

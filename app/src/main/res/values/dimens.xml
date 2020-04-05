@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="half_margin">8dp</dimen>
+
+    <dimen name="max_width">1200dp</dimen>
+</resources>
