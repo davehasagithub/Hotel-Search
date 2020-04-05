@@ -1,4 +1,5 @@
 # Hotel Search
+<img align="right" style="margin-left:20px" src="https://github.com/davehasagithub/Hotel-Search/raw/master/screenshot.png">
 _Example Project_
 
 This is a sample project that shows a list of hotels that can be sorted or shown on Google Maps.
