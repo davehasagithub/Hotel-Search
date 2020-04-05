@@ -28,18 +28,6 @@ about Google Maps) with the remaining time spent casually refactoring.
 - Data bindings, bindingadapters, converters
 - String resources with placeholders
 
-## Todo
-
-- Break out fragment specific viewmodels
-- Lots of silly kotlin things like if/let
-- Use ktx inn uiutils
-- Use viewmodel state library
-- Make list/map children of a wrapper fragment
-- Adapter.submitlist(null) vs just scroll to 0
-- Move getSortSubTitle into hotelsort
-- Take camera lat/lng out of layout xml
-- Extensions instead of utils
-
 ---
 
 Copyright 2020 codeparams.com. All rights reserved.
